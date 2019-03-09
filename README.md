@@ -10,7 +10,7 @@ These instructions will get you a copy of the project up and running on your loc
   $ git clone git@github.com:basoro/cordova-webview.git
   $ cd cordova-webview
 ```
-> Put your website location [here](https://github.com/basoro/cordova-webview/blob/master/www/js/index.js#L61) and [here](https://github.com/basoro/cordova-webview/blob/master/www/index.html#L32).
+> Put your website location [here](https://github.com/basoro/cordova-webview/blob/master/www/js/index.js#L61) and [here](https://github.com/basoro/cordova-webview/blob/master/www/index.html#L31).
 ```
   $ npm install
   $ cordova platform add android
