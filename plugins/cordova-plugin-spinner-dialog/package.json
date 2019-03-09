@@ -1,0 +1,69 @@
+{
+  "_from": "cordova-plugin-spinner-dialog",
+  "_id": "cordova-plugin-spinner-dialog@1.3.1",
+  "_inBundle": false,
+  "_integrity": "sha1-OooeskAY4d/L5NlRl1NoApje/Yk=",
+  "_location": "/cordova-plugin-spinner-dialog",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-plugin-spinner-dialog",
+    "name": "cordova-plugin-spinner-dialog",
+    "escapedName": "cordova-plugin-spinner-dialog",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-spinner-dialog/-/cordova-plugin-spinner-dialog-1.3.1.tgz",
+  "_shasum": "3a8a1eb24018e1dfcbe4d9519753680298defd89",
+  "_spec": "cordova-plugin-spinner-dialog",
+  "_where": "/home/nioperas06/workspace/cordova/hello",
+  "author": {
+    "name": "Domonkos Pal",
+    "email": "public@dpal.hu",
+    "url": "https://github.com/Paldom"
+  },
+  "bugs": {
+    "url": "https://github.com/Paldom/SpinnerDialog/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-spinner-dialog",
+    "platforms": [
+      "android",
+      "ios",
+      "wp8"
+    ]
+  },
+  "deprecated": false,
+  "description": "PhoneGap / Cordova waiting dialog (progress indicator) plugin with spinner for Android, iOS and Windows Phone 8. Maintained from original Paldom/SpinnerDialog repository.",
+  "homepage": "https://github.com/Paldom/SpinnerDialog#readme",
+  "keywords": [
+    "phonegap",
+    "android",
+    "ios",
+    "wp8",
+    "windows",
+    "phone",
+    "spinner",
+    "dialog",
+    "progress",
+    "indicator",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "cordova-wp8"
+  ],
+  "license": "MIT",
+  "name": "cordova-plugin-spinner-dialog",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paldom/SpinnerDialog.git"
+  },
+  "version": "1.3.1"
+}

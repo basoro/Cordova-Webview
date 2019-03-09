@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "DenEvents",
+  "short_name": "DenEvents",
+  "version": "com.example.hello",
+  "description": "Discover trending events in Denmark",
+  "author": "DustHQ",
+  "icons": [],
+  "start_url": "index.html"
+}

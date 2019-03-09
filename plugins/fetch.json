@@ -1,0 +1,42 @@
+{
+  "cordova-plugin-whitelist": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-whitelist@1"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-inappbrowser": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-inappbrowser@1.7.1"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-network-information": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-network-information"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-actionsheet": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-actionsheet"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-spinner-dialog": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-spinner-dialog"
+    },
+    "is_top_level": true,
+    "variables": {}
+  }
+}
