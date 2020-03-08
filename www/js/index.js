@@ -58,7 +58,7 @@ function onOffline() {
 }
 
 function openBrowser() {
-   var url = 'https://basoro.id/';
+   var url = 'https://simrs.rshdbarabai.com/lite/';
    var target = '_blank';
    var options = "location=no,toolbar=no"
    var ref = cordova.InAppBrowser.open(url, target, options);
