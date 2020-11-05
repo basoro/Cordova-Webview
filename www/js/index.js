@@ -58,7 +58,7 @@ function onOffline() {
 }
 
 function openBrowser() {
-   var url = 'https://rsaurasyifa.com/lite3/';
+   var url = 'https://basoro.org/';
    var target = '_blank';
    var options = "location=no,toolbar=no"
    var ref = cordova.InAppBrowser.open(url, target, options);
